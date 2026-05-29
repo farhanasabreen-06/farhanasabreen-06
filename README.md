@@ -4,13 +4,13 @@
 
 ### `training models, debugging life, chasing big dreams`
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&pause=1000&color=C792EA&center=true&vCenter=true&width=600&lines=AI%2FML+Student+%F0%9F%8C%99;building+projects+from+curiosity+and+chaos;turning+late-night+thoughts+into+real+systems;one+commit+closer+to+the+future" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&pause=1000&color=C792EA&center=true&vCenter=true&width=600&lines=AI%2FML+Student;building+projects+from+curiosity+and+chaos;turning+late-night+thoughts+into+real+systems;one+commit+closer+to+the+future" />
 
 </div>
 
 ---
 
-# 🌌 a little about me
+# A little about me
 
 ```python
 while alive:
@@ -21,12 +21,12 @@ while alive:
     repeat()
 ```
 
-an engineering student wandering somewhere between  
+An engineering student wandering somewhere between  
 machine learning models, unfinished playlists,  
 deep thoughts at 2am, and the dream of building  
 something meaningful.
 
-currently:
+Currently:
 - learning AI/ML & backend development
 - preparing for placements + GATE
 - building projects that feel alive
@@ -34,7 +34,7 @@ currently:
 
 ---
 
-# tech i work with
+# Tech i work with
 
 <div align="center">
 
@@ -58,7 +58,7 @@ currently:
 
 ---
 
-# current projects
+# Current projects
 
 ### 📊 NYC Taxi EDA Predictive Model
 exploring patterns, predictions, and stories hidden inside real-world taxi data using machine learning.
@@ -74,7 +74,7 @@ machine learning implementations and experiments built during AICTE coursework a
 
 ---
 
-# github universe
+# Github universe
 
 <div align="center">
 
@@ -86,7 +86,7 @@ machine learning implementations and experiments built during AICTE coursework a
 
 ---
 
-# currently learning
+# Currently learning
 
 - data structures & algorithms
 - backend systems
@@ -96,7 +96,7 @@ machine learning implementations and experiments built during AICTE coursework a
 
 ---
 
-# somewhere in the future...
+# Somewhere in the future...
 
 > i want to build technology that feels human.
 
@@ -104,6 +104,6 @@ machine learning implementations and experiments built during AICTE coursework a
 
 <div align="center">
 
-### "one day the things keeping me awake at night will become the things i'm proud i never gave up on." ✨
+### "One day the things keeping me awake at night will become the things i'm proud i never gave up on." ✨
 
 </div>
