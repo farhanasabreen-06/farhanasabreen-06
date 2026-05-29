@@ -1,6 +1,6 @@
 <div align="center">
 
-# Farhana Sabreen 
+# FARHANA SABREEN
 
 ### `training models, debugging life, chasing big dreams`
 
@@ -93,6 +93,6 @@ machine learning implementations and experiments built during AICTE coursework a
 
 <div align="center">
 
-### "One day the things keeping me awake at night will become the things i'm proud i never gave up on." ✨
+### "One day the things keeping me awake at night will become the things i'm proud i never gave up on." 
 
 </div>
