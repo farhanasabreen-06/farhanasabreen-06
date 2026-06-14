@@ -2,7 +2,7 @@
 
 # FARHANA SABREEN
 
-### `training models, debugging life, chasing big dreams`
+### `training models - debugging life`
 
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&pause=1000&color=C792EA&center=true&vCenter=true&width=600&lines=AI%2FML+Student;building+projects+from+curiosity+and+chaos;turning+late-night+thoughts+into+real+systems;one+commit+closer+to+the+future" />
 
@@ -28,7 +28,7 @@ something meaningful.
 
 Currently:
 - learning AI/ML & backend development
-- preparing for placements + GATE
+- preparing for placement
 - building projects that feel alive
 - trying to turn ideas into reality
 
