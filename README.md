@@ -78,23 +78,6 @@ Currently:
 
 ---
 
-# Current projects
-
-### 📊 NYC Taxi EDA Predictive Model
-exploring patterns, predictions, and stories hidden inside real-world taxi data using machine learning.
-
-### 📈 Visualization Using Python
-turning raw data into meaningful visual narratives through python visualizations.
-
-### 🤖 ModelBench
-a collection of machine learning experiments, evaluations, and model testing workflows.
-
-### 🧠 AICTE ML
-machine learning implementations and experiments built during AICTE coursework and practice.
-
-
----
-
 # Currently learning
 
 - data structures & algorithms
