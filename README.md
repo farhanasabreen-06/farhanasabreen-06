@@ -4,7 +4,7 @@
 
 ### `training models - debugging life`
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&pause=1000&color=C792EA&center=true&vCenter=true&width=600&lines=AI%2FML+Student;building+projects+from+curiosity+and+chaos;turning+late-night+thoughts+into+real+systems;one+commit+closer+to+the+future" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&pause=1000&color=C792EA&center=true&vCenter=true&width=600&lines=AI%2FML+Student;Building+projects+from+curiosity+and+chaos;Turning+late-night+thoughts+into+real+systems;One+commit+closer+to+the+future" />
 
 </div>
 
