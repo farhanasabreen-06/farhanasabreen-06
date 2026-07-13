@@ -67,15 +67,3 @@ Currently:
 - consistency (hardest framework honestly)
 
 ---
-
-# Somewhere in the future...
-
-> i want to build technology that feels human.
-
----
-
-<div align="center">
-
-### "One day the things keeping me awake at night will become the things i'm proud i never gave up on." 
-
-</div>
