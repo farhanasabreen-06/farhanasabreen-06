@@ -21,10 +21,7 @@ while alive:
     repeat()
 ```
 
-An engineering student wandering somewhere between  
-machine learning models, unfinished playlists,  
-deep thoughts at 2am, and the dream of building  
-something meaningful.
+An engineering student wandering somewhere between machine learning models, unfinished playlists, deep thoughts at 2am and the dream of building something meaningful.
 
 Currently:
 - learning AI/ML & backend development
@@ -49,8 +46,6 @@ Currently:
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
 
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white)
-
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
